@@ -1,0 +1,83 @@
+﻿1
+00:00:05,797 --> 00:00:06,889
+Baba...
+
+2
+00:00:07,049 --> 00:00:08,266
+<i>Yes, my son.</i>
+
+3
+00:00:08,425 --> 00:00:09,847
+<i>Tell me</i> a <i>story.</i>
+
+4
+00:00:09,927 --> 00:00:12,100
+Which one?
+
+5
+00:00:12,429 --> 00:00:14,352
+<i>The story of home.</i>
+
+6
+00:00:15,599 --> 00:00:18,102
+<i>Millions of years ago...</i>
+
+7
+00:00:18,268 --> 00:00:20,862
+a <i>meteorite made of vibranium...</i>
+
+8
+00:00:21,021 --> 00:00:23,365
+<i>the strongest substance
+in the universe...</i>
+
+9
+00:00:23,524 --> 00:00:25,447
+<i>struck the continent
+of Africa. .</i>.
+
+10
+00:00:27,611 --> 00:00:30,490
+<i>Affecting the plant life
+around it.</i>
+
+11
+00:00:30,656 --> 00:00:32,658
+<i>And when the time of man came...</i>
+
+12
+00:00:32,824 --> 00:00:36,670
+<i>five tribes settled on it
+and called it Wakanda.</i>
+
+13
+00:00:39,373 --> 00:00:41,967
+<i>The tribes lived in constant
+war with each other...</i>
+
+14
+00:00:42,125 --> 00:00:44,298
+<i>until</i> a warrior shaman...
+
+15
+00:00:44,461 --> 00:00:47,431
+<i>received a vision from
+the Panther Goddess Bast...</i>
+
+16
+00:00:47,589 --> 00:00:50,638
+<i>who led him
+to the Heart-Shaped Herb...</i>
+
+17
+00:00:51,301 --> 00:00:53,053
+<i>a plant that granted him</i>
+
+18
+00:00:53,136 --> 00:00:57,141
+<i>superhuman strength,
+speed and instincts.</i>
+
+19
+00:00:57,307 --> 00:00:58,729
+<i>The warrior became king...</i>
